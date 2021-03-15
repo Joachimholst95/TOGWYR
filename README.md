@@ -1,2 +1,2 @@
 # TOGWYR
-project in the course Mobile Games in the 5th Semester
+TOGWYR is a project from my course Mobile Games in the 5th semester. I worked together within a team of two together with a german exchange student. The project was finished after roughly 20 hours of work on my side. I have been responsible for the collisions, positions, movements, random generations, pretty much all the technical work. The project has not been altered since the course ended. The game works still well on my android(Oreo) phone.
